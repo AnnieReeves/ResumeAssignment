@@ -33,6 +33,7 @@ a:hover {
 h1 {
     font-size: 100px;
     line-height: 1;
+    text-shadow: 4px 3px 7px rgb(105,105,105,75%), 2px 5px 5px rgb(255,255,255,80%);
 }
 
 h2 {
